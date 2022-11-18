@@ -2,7 +2,7 @@
 Personal Expense Tracker Application
 
 
-#Team-Details
+# Team-Details
 
 Team ID : PNT2022TMID16249
 Team Size : 4
