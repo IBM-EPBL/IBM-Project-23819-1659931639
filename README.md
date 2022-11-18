@@ -13,5 +13,3 @@ Team members : Ashik Eswar N, Megaraj S, Lokeshwar B <br>
 
 <hr>
 
-<hr>
-
