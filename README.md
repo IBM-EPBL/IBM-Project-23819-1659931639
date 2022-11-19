@@ -3,6 +3,7 @@
 
 <hr>
 <h3 align="center">Personal Expense Tracker Application</h3>
+Category : Cloud app development
 <hr>
 <p align="center">
 Team ID : PNT2022TMID16249 <br>
@@ -29,3 +30,6 @@ Team members : Ashik Eswar N, Megaraj S, Lokeshwar B <br>
 
 ## 👩‍💻 IDE
 <img align="left" slt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+
+<br><br>
+<p align="center"><img src="https://i.postimg.cc/rFXt3yW2/thank-you-computer-keys1.jpg" /></p>
