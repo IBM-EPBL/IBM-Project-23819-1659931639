@@ -32,4 +32,12 @@ Team members : Ashik Eswar N, Megaraj S, Lokeshwar B <br>
 <img align="left" slt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
 <br><br>
+<hr>
+<h2>Credits:</h3> <br>
+<a href="https://github.com/Aakash1616/"> @Aakash </a> - Full stack developer <br>
+<a href="https://github.com/megaraj-git/"> @Megaraj </a> - Full stack developer <br>
+<a href="https://github.com/0xashiii"> @AshikEswar </a> - Security Engineer <br>
+<a href="https://github.com/lokivi"> @Lokeshwar </a> - Flutter developer <br>
+
+<hr>
 <p align="center"><img src="https://i.postimg.cc/rFXt3yW2/thank-you-computer-keys1.jpg" /></p>
