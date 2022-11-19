@@ -2,13 +2,14 @@
 
 
 <hr>
-<h3>Personal Expense Tracker Application</h3>
+<h3 align="center">Personal Expense Tracker Application</h3>
 <hr>
+<p align="center">
 Team ID : PNT2022TMID16249 <br>
 Team Size : 4 <br>
 Team Leader : Aakash R <br>
 Team members : Ashik Eswar N, Megaraj S, Lokeshwar B <br>
-
+</p>
 <hr>
 
 ### Languages and Tools: 
